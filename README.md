@@ -3,5 +3,4 @@ La herramienta que he desarrollado combina Scapy, una poderosa librería de Pyth
 
 La herramienta es de boton gordo por lo que es super sencilla de usar, simplemente ejecutas el script y ya esta se te abre la siguiente interfaz
 
-<img width="398" height="329" alt="image" src="https://github.com/user-attachments/assets/1daf24bb-f1a5-4ce5-9d39-023aac29b54e" />
 
