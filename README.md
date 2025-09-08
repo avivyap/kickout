@@ -20,4 +20,4 @@ Consideraciones:
 Es importante recordar que el uso de herramientas de análisis de red debe realizarse de manera ética y responsable. Esta aplicación es una demostración educativa y debe utilizarse únicamente en entornos donde tengas permiso para realizar pruebas de seguridad.
 
 
-
+(Antes de usar la herramienta se recomienda leer el archivo requirements.txt)
