@@ -1,0 +1,12 @@
+Es recomendable usar un entorno virtual en python para que no te de problemas el instalador de paquetes de python.
+
+Las librerias necesarias:
+
+    - tkinter
+    - scapy
+    - signal
+    - sys
+    - time
+    - ipaddress
+    - threading
+    - termcolor
