@@ -1,3 +1,9 @@
+Para que la herramienta funcione como debe tienes que ejecutar el siguiente comando en tu terminal de linux
+
+    echo 0 > /proc/sys/net/ipv4/ip_forward
+
+Esto lo que hace es desactivar el forwarding por lo que tu vm ya no reenvia paquetes (que es lo que hace que la victima no los reciba)
+
 Es recomendable usar un entorno virtual en python para que no te de problemas el instalador de paquetes de python.
 
 Las librerias necesarias:
