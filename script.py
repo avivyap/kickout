@@ -66,6 +66,7 @@ def main_interface():
 			if ip_router:
 				try:
 					target = ipaddress.ip_address(target)
+					ip_router = ipaddress.ip_address(ip_router)
 					thread = threading.Thread(target=spoof, args=(target, ip_router))
 					thread.daemon = True
 					thread.start()
