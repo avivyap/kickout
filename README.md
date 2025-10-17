@@ -5,7 +5,8 @@ Digo que la herramienta "expulsa" a la victima por que no es del todo asi, lo qu
 
 La herramienta es de boton gordo por lo que es super sencilla de usar, simplemente ejecutas el script y ya esta se te abre la siguiente interfaz
 
-<img width="399" height="329" alt="image" src="https://github.com/user-attachments/assets/ac9e835d-2167-4a49-9ddc-3ab0b1079b33" />
+<img width="502" height="399" alt="image" src="https://github.com/user-attachments/assets/8ceaca00-f570-4c89-83eb-49822518b869" />
+
 
 Funcionamiento:
 
