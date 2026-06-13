@@ -72,7 +72,7 @@ def main_interface():
                                 except ValueError:
                                         bad_target = messagebox.showinfo("Error", "No has introducido una ip")
                         else:
-                                no_router_ip = messagebox.showindo("Error", "No has introducido la ip del router")
+                                no_router_ip = messagebox.showinfo("Error", "No has introducido la ip del router")
                 else:
                         no_target = messagebox.showinfo("Error", "No has introducido ninguna ip victima")
 
